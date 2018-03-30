@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="myapiapponazure" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\Dropbox\\All\ my\ things\\MVP\\Contribuciones\\Material\\Azure\ App\ Service\\ApiAPP\\MyAzureApiAPP\\MyAzureApiAPP\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^E:\\Dropbox\\All\ my\ things\\MVP\\Contribuciones\\Material\\Azure\ App\ Service\\ApiAPP\\MyAzureApiAPP\\MyAzureApiAPP\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
